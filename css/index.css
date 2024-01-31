@@ -1,0 +1,18 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: bisque;
+    margin: 0;
+}
+div.tek{
+    display: flex;
+}
+div.cut{
+    display: flex;
+}
+img{
+    width: 100%;
+}
+span{
+    padding: 5px;
+    font-size: larger;
+}
